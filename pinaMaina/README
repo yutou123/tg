@@ -7,6 +7,12 @@ pip install colorlog
 pip install pyautogui
 
 
+想要修改运行次数的 可以把10改成你想要的次数
+
+
+#repeat 需要按多少次
+self.longPressMouse(repeat=10, press_time=4)
+
 
 运行 pinamaina.py 文件就可以了
 
