@@ -34,7 +34,7 @@ class pinaMnia(object):
         pyautogui.moveTo(self.x, self.y, duration=1)
 
         #repeat 需要按多少次
-        self.longPressMouse(repeat=100, press_time=4)
+        self.longPressMouse(repeat=10, press_time=4)
 
 #获取当前鼠标坐标
 def position():
