@@ -1,0 +1,7 @@
+安装 colorlog、logging、pyautogui 库
+
+
+pip install logging
+pip install colorlog
+
+pip install pyautogui
