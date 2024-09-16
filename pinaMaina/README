@@ -5,3 +5,9 @@ pip install logging
 pip install colorlog
 
 pip install pyautogui
+
+
+
+运行 pinamaina.py 文件就可以了
+
+
